@@ -1,6 +1,5 @@
 # Dollar for Dollar
-A user-driven Alexa skill and web applicaiton that suggests clothing preference based off of weather and user's response to different weather conditions. During BoilerMake VI 2018 Purdue, a 36-hour hackathon which welcomes all levels of experience and provides tools and resources, our team decided to focus on creating a convenient way to analyize the weather.
-See also the [presentation](https://docs.google.com/presentation/d/1qcD72tT5V7uBxGVAr_azSyVUbyUy73mNn21dBnI50pM/edit?usp=sharing) for this project.
+A user-driven Alexa skill that suggested groceries based off of current coupons and other items in the cart. During VandyHacks V 2019 at Vanderbilt University, a 36-hour hackathon which welcomes all levels of experience and provides tools and resources, our team decided to focus on reimagining and simplifing how the shopper gets the most value from online shopping.
 
 ## Built With
 
